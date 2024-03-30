@@ -7,11 +7,11 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 
 ## 💼 Work Experience
 - **Student Assistant**, Izmir University of Economics (2023-2024)
-  Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
+    Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
 - **Student Representative**, IEEE Turkey Section AESS (2023-Present)
-  Conducted various activities across Turkey including online events, conferences, and technical excursions.
+    Conducted various activities across Turkey including online events, conferences, and technical excursions.
 - **Organization Coordinator**, IEEE Turkey Section AESS (2023)
-  Coordinated numerous activities, including online events and face-to-face conferences.
+    Coordinated numerous activities, including online events and face-to-face conferences.
 
 ## 🛠 Skills
 
