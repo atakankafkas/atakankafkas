@@ -1,4 +1,4 @@
-# Hello, I'm Atakan Kafkas! 👋
+# Hello, I'm Atakan KAFKAS! 👋
 
 I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
