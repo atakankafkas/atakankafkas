@@ -52,7 +52,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
   - **Description**: Participated in a project aimed at detecting undamaged roads post-disaster using UAV and satellite imagery to facilitate emergency response and recovery.
   - **Technologies Used**: Machine Learning, Image Processing, GIS (Geographic Information System)
   - **Outcome**: Developed an algorithm that accurately identifies safe paths, contributing to faster and more efficient disaster response strategies.
-  - [TÜBİTAK Support Document](atakankafkas/Tubitak_Support.pdf)
+  - [TÜBİTAK Support Document](Tubitak_Support.pdf)
 
 
 ## 📊 GitHub Stats
