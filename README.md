@@ -24,14 +24,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 ## 🛠 Skills
 
 ### Software Skills
-- Eagle
-- Altium
-- Matlab
-- Python
-- Assembly
-- Arduino
-- Java
-- Android Studio
+- Eagle, Altium, Matlab, Python, Assembly, Arduino, Java, Android Studio
 
 ### Soft Skills
 - Teamwork
@@ -55,11 +48,3 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 - LinkedIn: [Atakan KAFKAS](https://www.linkedin.com/in/atakan-kafkas-525627200/)
 - Email: atakankafkas0@gmail.com
 
-## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=atakankafkas&color=blue)
-
-
-<!---
-atakankafkas/atakankafkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
