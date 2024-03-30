@@ -1,6 +1,6 @@
 # Hello, I'm Atakan Kafkas! 👋
 
-I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to software engineering and technology.
+I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
 - Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.21/4)
