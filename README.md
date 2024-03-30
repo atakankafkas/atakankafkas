@@ -55,6 +55,8 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 - LinkedIn: [Atakan KAFKAS](https://www.linkedin.com/in/atakan-kafkas-525627200/)
 - Email: atakankafkas0@gmail.com
 
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=atakankafkas&color=blue)
 
 
 <!---
