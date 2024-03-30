@@ -24,7 +24,14 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 ## 🛠 Skills
 
 ### Software Skills
-- Eagle, Altium, Matlab, Python, Assembly, Arduino, Java, Android Studio
+- Eagle
+- Altium
+- Matlab
+- Python
+- Assembly
+- Arduino
+- Java
+- Android Studio
 
 ### Soft Skills
 - Teamwork
@@ -35,8 +42,16 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 - Communication Skills
 
 ## 🚀 Projects
-- **Teknofest Mid-Altitude Rocket Project** - Led the AVCI Charlie Rocket Team, focusing on avionics and project sponsorship.
-- **HAVELSAN & TÜBİTAK - Pathfinder** - Worked on analyzing UAV and satellite images to detect undamaged roads post-disaster and find the shortest path to the target.
+- **Teknofest Mid-Altitude Rocket Project**
+  - **Role**: Team Leader of AVCI Charlie Rocket Team
+  - **Description**: Led the team in designing and building a mid-altitude rocket for the TEKNOFEST competition, focusing on avionics systems and securing sponsorship.
+  - **Technologies Used**: Embedded Systems, Sensor Integration, Communication Systems
+  - **Achievements**: Successfully received a score of 630,50 in the preliminary design report. [Results](https://www.teknofest.org/tr/content/announcement/teknofest-2022-roket-yarsmas-on-tasarm-rapor-sonuclar-ackland/)
+- **HAVELSAN & TÜBİTAK - Pathfinder**
+  - **Role**: Research Assistant
+  - **Description**: Participated in a project aimed at detecting undamaged roads post-disaster using UAV and satellite imagery to facilitate emergency response and recovery.
+  - **Technologies Used**: Machine Learning, Image Processing, GIS (Geographic Information System)
+  - **Outcome**: Developed an algorithm that accurately identifies safe paths, contributing to faster and more efficient disaster response strategies.
 
 ## 📊 GitHub Stats
 ![Atakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakankafkas&show_icons=true)
