@@ -48,6 +48,9 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 ## 📊 GitHub Stats
 ![Atakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakankafkas&show_icons=true)
 
+## 👨‍💻 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atakankafkas&layout=compact)
+
 ## 🌐 Social Media
 - LinkedIn: [Atakan KAFKAS](https://www.linkedin.com/in/atakan-kafkas-525627200/)
 - Email: atakankafkas0@gmail.com
