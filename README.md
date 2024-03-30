@@ -56,7 +56,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 
 
 ## 📊 GitHub Stats
-![Atakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakankafkas&show_icons=true&theme=vision-friendly-dark)
+![Atakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atakankafkas&show_icons=true&theme=chartreuse-dark)
 
 ## 👨‍💻 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atakankafkas&layout=compact&theme=chartreuse-dark)
