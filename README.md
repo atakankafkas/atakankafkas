@@ -6,7 +6,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 - Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.21/4)
 
 ## 💼 Work Experience
-- **Student Assistant**, Izmir University of Economics (2023-2024)\n
+- **Student Assistant**, Izmir University of Economics (2023-2024)
   Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
 - **Student Representative**, IEEE Turkey Section AESS (2023-Present)
   Conducted various activities across Turkey including online events, conferences, and technical excursions.
