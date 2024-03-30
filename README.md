@@ -10,7 +10,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
     Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
 - **Intern**, [TÜBİTAK BİLGEM](https://bilgem.tubitak.gov.tr/) (2023)    
     Worked on Digital Design Engineering focusing on Vivado Xiling, Verilog.
-- **Intern**, [Asisguard Defense](https://www.asisguard.com.tr/en/) (2023)
+- **Intern**, [Asisguard Defense](https://www.asisguard.com.tr/en/) (2023)    
     Involved in Hardware Design Engineering with a focus on Altium PCB design.
 - **Intern**, [Eldor Corporation](https://www.eldorgroup.com/tr//turkiye/) (2022)    
     Worked in ABS Wound Coil Plant, focusing on PLC, HMI, and robotics systems (Epson, Kuka, Marsilli).
