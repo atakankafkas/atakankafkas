@@ -3,7 +3,7 @@
 I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
-- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as Honor Student
+- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as an Honor Student
 
 ## 💼 Work Experience
 - **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2025)    
@@ -24,6 +24,15 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
   Conducted various activities across Turkey including online events, conferences, and technical excursions.
 - **Organization Coordinator**, IEEE Turkey Section AESS (2023)  
   Coordinated numerous activities, including online events and face-to-face conferences.
+
+## 🏆 Awards
+- **Third Place Award**, SAVTEK 2024  
+  11. Savunma Teknolojileri Kongresi, ODTÜ, Ankara, 11 Eyl 2024.
+
+  ## 📑 Publications
+- **İHA ve Uydu Görüntülerini Kullanarak Makine Öğrenme Yöntemleri ile Afet Sonrası Hasar Görmemiş Yolların ve Hedefe Optimum Güzergahın Tespiti**, HAVELSAN Suit (2024)  
+  Secured the third place with out PATHFINDER Project in HAVELSAN Suit.
+  [The Paper](https://savtek.metu.edu.tr/)
 
 ## 🛠 Skills
 
