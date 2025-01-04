@@ -35,7 +35,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 ## 📑 Publications
 - **İHA ve Uydu Görüntülerini Kullanarak Makine Öğrenme Yöntemleri ile Afet Sonrası Hasar Görmemiş Yolların ve Hedefe Optimum Güzergahın Tespiti**, SAVTEK 2024
   11. Savunma Teknolojileri Kongresi, ODTÜ, Ankara, 11 Eyl 2024.
-  [The Paper](https://savtek.metu.edu.tr/)
+    [The Paper](https://savtek.metu.edu.tr/)
 
 ## 🛠 Skills
 
