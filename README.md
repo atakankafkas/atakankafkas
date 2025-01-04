@@ -3,8 +3,10 @@
 I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
-- Specialist Reserve Officer Candidate, Polatlı Artillery and Missile School Command / TSK (2024)
-- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as an Honor Student (2019-2024)
+- Specialist Reserve Officer Candidate, Polatlı Artillery and Missile School Command
+  TSK (2024)
+- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4)
+  Graduated as an Honor Student (2019-2024)
 
 ## 💼 Work Experience
 - **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2025)    
