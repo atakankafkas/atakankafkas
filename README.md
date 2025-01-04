@@ -1,6 +1,6 @@
 # Hello, I'm Atakan KAFKAS! 👋
 
-I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
+I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Ankara, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
 - Specialist Reserve Officer Candidate, Polatlı Artillery and Missile School Command (TSK)  
