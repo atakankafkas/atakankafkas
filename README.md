@@ -23,7 +23,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
     Worked in ABS Wound Coil Plant, focusing on PLC, HMI, and robotics systems (Epson, Kuka, Marsilli).
 
 ## 🤝 Volunteer Experience
-- **Student Representative**, IEEE Turkey Section AESS (2023-Present)  
+- **Student Representative**, IEEE Turkey Section AESS (2023-2024)  
   Conducted various activities across Turkey including online events, conferences, and technical excursions.
 - **Organization Coordinator**, IEEE Turkey Section AESS (2023)  
   Coordinated numerous activities, including online events and face-to-face conferences.
