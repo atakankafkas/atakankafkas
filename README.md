@@ -62,7 +62,7 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
   - [TÜBİTAK Support Document](Tubitak_Support.pdf)
 
 ## 🏆 Awards
-- **Third Place Award**, HAVELSAN Suit (2024)
+- **Third Place Award**, HAVELSAN Suit (2024)  
   Secured the third place with out PATHFINDER Project in HAVELSAN Suit.
 
 ## 📑 Publications
