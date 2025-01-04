@@ -3,9 +3,13 @@
 I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
-- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.21/4)
+- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as Honor Student
 
 ## 💼 Work Experience
+- **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2025)    
+    Specialist Reserve Officer (Electrical and Electronics Engineer).
+- **Second Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2024-2025)    
+    Specialist Reserve Officer (Electrical and Electronics Engineer).
 - **Student Assistant**, [Izmir University of Economics](https://www.ieu.edu.tr/tr) (2023-2024)    
     Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
 - **Intern**, [TÜBİTAK BİLGEM](https://bilgem.tubitak.gov.tr/) (2023)    
