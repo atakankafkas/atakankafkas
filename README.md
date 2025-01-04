@@ -7,9 +7,9 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
 - Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) - Graduated as an Honor Student (2019-2024)
 
 ## 💼 Work Experience
-- **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2025)    
+- **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)](https://www.tsk.tr/) (2025)    
     Specialist Reserve Officer (Electrical and Electronics Engineer).
-- **Second Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2024-2025)    
+- **Second Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)](https://www.tsk.tr/) (2024-2025)    
     Specialist Reserve Officer (Electrical and Electronics Engineer).
 - **Project Associate**, [Nurol Technologies](https://www.nurolteknoloji.com/) (2024)    
     Innovation Together Program.
