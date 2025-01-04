@@ -3,13 +3,16 @@
 I am an Electrical and Electronics Engineer passionate about innovation and continuously improving my skills and processes. Based in Izmir, Turkey, I'm dedicated to engineering and technology.
 
 ## 🎓 Education
-- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as an Honor Student
+- Specialist Reserve Officer Candidate, Türk Silahlı Kuvvetleri (TSK) Polatlı Artillery and Missile School Command (2024)
+- Bachelor of Electrical and Electronics Engineering, Izmir University of Economics (GPA: 3.23/4) / Graduated as an Honor Student (2019-2024)
 
 ## 💼 Work Experience
 - **Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2025)    
     Specialist Reserve Officer (Electrical and Electronics Engineer).
 - **Second Lieutenant**, [Türk Silahlı Kuvvetleri (TSK)]([https://www.tsk.tr/]) (2024-2025)    
     Specialist Reserve Officer (Electrical and Electronics Engineer).
+- **Project Associate**, [Nurol Technologies](https://www.nurolteknoloji.com/) (2024)    
+    Innovation Together Program.
 - **Student Assistant**, [Izmir University of Economics](https://www.ieu.edu.tr/tr) (2023-2024)    
     Assisting in Signals and Systems, Electric Circuit Analysis 1 courses.
 - **Intern**, [TÜBİTAK BİLGEM](https://bilgem.tubitak.gov.tr/) (2023)    
@@ -26,12 +29,12 @@ I am an Electrical and Electronics Engineer passionate about innovation and cont
   Coordinated numerous activities, including online events and face-to-face conferences.
 
 ## 🏆 Awards
-- **Third Place Award**, SAVTEK 2024  
-  11. Savunma Teknolojileri Kongresi, ODTÜ, Ankara, 11 Eyl 2024.
+- **Third Place Award**, HAVELSAN Suit (2024) 
+  Secured the third place with out PATHFINDER Project in HAVELSAN Suit.
 
   ## 📑 Publications
-- **İHA ve Uydu Görüntülerini Kullanarak Makine Öğrenme Yöntemleri ile Afet Sonrası Hasar Görmemiş Yolların ve Hedefe Optimum Güzergahın Tespiti**, HAVELSAN Suit (2024)  
-  Secured the third place with out PATHFINDER Project in HAVELSAN Suit.
+- **İHA ve Uydu Görüntülerini Kullanarak Makine Öğrenme Yöntemleri ile Afet Sonrası Hasar Görmemiş Yolların ve Hedefe Optimum Güzergahın Tespiti**, SAVTEK 2024
+  11. Savunma Teknolojileri Kongresi, ODTÜ, Ankara, 11 Eyl 2024.
   [The Paper](https://savtek.metu.edu.tr/)
 
 ## 🛠 Skills
